@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @yasmeenvrk23-beep
+/src/backend/database.py      @yasmeenvrk23-beep
+/src/backend/routers/auth.py  @yasmeenvrk23-beep
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @yasmeenvrk23-beep
